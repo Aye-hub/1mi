@@ -7,5 +7,6 @@
   - [实用指令](instructions)
   - [组管理](groupManager)
   - [权限管理](authorityManagement)
+  - [任务调度](crond)
 * **docsify部署**
   - [GitHub Pages](github)
