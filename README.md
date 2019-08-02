@@ -10,10 +10,10 @@
     <img alt="GitHub" src="https://img.shields.io/badge/github-Aye--Hub-red" target="_blank" />
   </a>
   <a href='https://juejin.im/user/5d424a9a51882530e241ff83' target="_blank" alt='travis ci'>
-  <img alt='travis ci' src='https://img.shields.io/badge/%E6%8E%98%E9%87%91-%E9%98%BF%E4%B8%9A-blue'>
+  <img alt='juejin' src='https://img.shields.io/badge/%E6%8E%98%E9%87%91-%E9%98%BF%E4%B8%9A-blue'>
   </a>
    <a href='https://www.lvzhenye.club' target="_blank" alt='travis ci'>
-  <img alt='travis ci' src='https://img.shields.io/badge/blog-%E9%98%BF%E4%B8%9AHub-yellowgreen'>
+  <img alt='blog' src='https://img.shields.io/badge/blog-%E9%98%BF%E4%B8%9AHub-yellowgreen'>
   </a>
 </p>
 
