@@ -5,7 +5,7 @@
 * [`coding`](https://dev.tencent.com/u/lvzhy/p/Linux/git "coding")
 
 
-## git安装vvv
+## git安装
 
 ### 下载git
 ```bash
