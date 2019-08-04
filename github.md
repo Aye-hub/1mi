@@ -1,9 +1,8 @@
-![show](https://image.lvzhenye.club/article/image/cid52-head.png)
+![show](https://image.lvzhenye.club/article/image/cid52-docsify.png)
 
-* [`在线演示`](https://doc.xxwiki.com "在线演示")
-* [`官方文档`](https://docsify.js.org/ "官方文档")
-* [`coding`](https://dev.tencent.com/u/lvzhy/p/Linux/git "coding")
-
+* [:books:官方文档](https://docsify.js.org/ "官方文档")
+* [:octocat:github](https://github.com/Aye-hub/1mi "github")
+* [:tv:在线演示](https://www.airbus.club)
 
 ## git安装
 
