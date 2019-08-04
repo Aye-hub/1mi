@@ -8,5 +8,12 @@
   - [组管理](groupManager)
   - [权限管理](authorityManagement)
   - [任务调度](crond)
+  - [磁盘管理](diskManager)
+  - [防火墙](firewall)
+  - [进程管理和服务管理](processAndService)
+  - [rpm和yum](rpmAndYum)
+* 🦄个性化
+  - [修改Linux欢迎界面](welcome)
+  - [oh-my-zsh](zsh)
 * :hammer:**docsify部署**
   - [:octocat:GitHub Pages](github)
