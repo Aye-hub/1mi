@@ -1,4 +1,4 @@
-![show](https://image.lvzhenye.club/article/image/cid52-doc.jpg)
+![show](https://image.lvzhenye.club/cid52-doc.png)
 
 * [:books:官方文档](https://docsify.js.org/ "官方文档")
 * [:octocat:github](https://github.com/Aye-hub/1mi "github")
