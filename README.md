@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to Linux DOC 👋</h1>
 <p align="center">
-  <a href="https://doc.xxwiki.com">
+  <a href="https://doc.1mi.top">
     <img alt="linuxDoc" src="https://image.lvzhenye.club/github/doc/logo-2.jpg">
   </a>
 </p>
