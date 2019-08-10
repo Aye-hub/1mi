@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Linux DOC 👋</h1>
 <p align="center">
   <a href="https://doc.xingeek.com">
-    <img alt="linuxDoc" src="https://image.lvzhenye.club/github/doc/logo-2.jpg">
+    <img alt="linuxDoc" src="/media/logo-2.jpg">
   </a>
 </p>
 <p align="center">

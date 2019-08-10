@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Linux DOC 👋</h1>
 <p align="center">
   <a href="https://doc.xxwiki.com">
-    <img alt="linuxDoc" src="https://image.lvzhenye.club/github/doc/logo-2.jpg">
+    <img alt="linuxDoc" src="/media/logo-2.jpg">
   </a>
 </p>
 <p align="center">
@@ -142,7 +142,7 @@ npm config set registry https://registry.npm.taobao.org
 
 #### 点开仓库，选择` Settings`，往下拉找到`GitHub Pages`，按下图所示选择。
 
-![page](https://image.lvzhenye.club/article/image/cid52-1.png)
+![page](/media/cid52-1.png)
 
 > 此时，点击上方分配的免费域名就看到页面了。
 
