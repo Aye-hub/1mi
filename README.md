@@ -35,6 +35,6 @@
 - 此文档基于`CentOS`编写，涵盖内容与`Linux`其他发行版大致相同。
 
 ## 🤙联系作者
-* 📫[i@1mi.top](mailto:i@1mi.top)
+* 📫[i@icore.cc](mailto:i@icore.cc)
 * :iphone:[QQ:1337426477](http://wpa.qq.com/msgrd?v=3&uin=1337426477&site=qq&menu=yes)
 * 🏠[My Blog](https://www.lvzhenye.club)
